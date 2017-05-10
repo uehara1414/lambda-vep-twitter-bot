@@ -1,6 +1,6 @@
 # lambda-vep-twitter-bot
 
-[twitter-war-resistant](https://github.com/uehara1414/twitter-war-resistant)の AWS Lambda & Google Spreadsheets 版です
+[twitter-war-resistant](https://github.com/uehara1414/twitter-war-resistant)の AWS Lambda & Google Spreadsheets 版です  
 引用リツイートされたツイート一覧はこちらから閲覧できるようになりました。
 https://docs.google.com/spreadsheets/d/1Q3vPjJmot3gYf552_3r6g2qPbMIFHbQ8lvuf2Q1qh70/edit?usp=sharing
 
