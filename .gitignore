@@ -90,3 +90,5 @@ ENV/
 
 .idea/
 client_secret.json
+
+*.zip
