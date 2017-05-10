@@ -92,3 +92,5 @@ ENV/
 client_secret.json
 
 *.zip
+
+vendor/
